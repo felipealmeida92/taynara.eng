@@ -5,4 +5,4 @@ Estou desenvolvendo uma página de vendas focada na apresentação de serviços 
 - Contato: Links diretos para redes sociais e e-mail, facilitando a comunicação.
 - Formulário de Interesse: Um formulário simples e intuitivo para que os visitantes possam expressar interesse em contratar os serviços, fornecendo seus dados de contato e uma breve descrição de suas necessidades.
 
-Este projeto visa criar uma presença online profissional e eficaz, facilitando o engajamento e a conversão de visitantes em clientes.## 🌐 Redes Sociais
+Este projeto visa criar uma presença online profissional e eficaz, facilitando o engajamento e a conversão de visitantes em clientes.
