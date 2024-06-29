@@ -1,37 +1,8 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Estou desenvolvendo uma página de vendas focada na apresentação de serviços de engenharia. O objetivo principal é conectar potenciais clientes com a engenheira, permitindo que eles explorem os trabalhos já realizados e obtenham informações de contato. A página incluirá:
 
+- Apresentação dos Serviços: Uma seção detalhada descrevendo os diversos serviços oferecidos pela engenheira.
+- Portfólio: Uma galeria visual mostrando alguns dos projetos concluídos, destacando a qualidade e a experiência da engenheira.
+- Contato: Links diretos para redes sociais e e-mail, facilitando a comunicação.
+- Formulário de Interesse: Um formulário simples e intuitivo para que os visitantes possam expressar interesse em contratar os serviços, fornecendo seus dados de contato e uma breve descrição de suas necessidades.
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
-
-
-teste 2
+Este projeto visa criar uma presença online profissional e eficaz, facilitando o engajamento e a conversão de visitantes em clientes.## 🌐 Redes Sociais
