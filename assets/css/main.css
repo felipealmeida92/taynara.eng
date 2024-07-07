@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #1e5647 !important;
+			color: #36997f !important;
 		}
 
 	strong, b {
@@ -2626,7 +2626,7 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #1e5647;
+				background-color: #36997f;
 			}
 
 			input[type="submit"].primary:active,
